@@ -1,4 +1,4 @@
-👋 Hi, I’m suriya
+<h1>👋 Hi, I’m suriya</h1>
 👀 I’m interested in front-end development
 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT JS 
 💞️ I’m looking to collaborate on ...
