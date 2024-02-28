@@ -57,8 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/suriya17code/suriya17code/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
