@@ -91,8 +91,7 @@
 <a href="https://github.com/suriya17code">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suriya17code&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suriya17code&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suriya17code&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suriya17code&theme=2077" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suriya17code&theme=2077" height="180em" />
 </div>
 
