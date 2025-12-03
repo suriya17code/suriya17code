@@ -41,13 +41,7 @@
   </a>
 </div>
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=suriya17code&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriya17code&layout=compact&theme=dracula" height="150" />
-</div>
+--- 
 
 ---
 
