@@ -1,99 +1,66 @@
+<h1 align="center">Hi 👋, I'm Suriya</h1>
+<h3 align="center">Frontend Developer | React | JavaScript | MERN Stack</h3>
 
+---
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm suriya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### 🚀 About Me
+- 🌱 Currently learning **React.js & MERN Stack**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, jQuery, React**
+- 📫 Reach me at **suriyatechjs@gmail.com**
+- ⚡ Fun fact: **I love building UI and solving problems**
 
-- 🌱 I’m currently learning **REACT JS**
+---
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, JQuery, React js,web development**
-
-- 📫 How to reach me **suriyatechjs@gmail.com**
-
-- ⚡ Fun fact **I love code**
-
-###
-
-
-
-###
-
-<img align="right" height="150" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+### 🛠️ Tech Stack
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+### 🌐 Connect With Me
+<div>
+  <a href="mailto:suriyatechjs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
   <a href="https://www.linkedin.com/in/suriya-tech-js/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://outlook.live.com/mail/0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="https://www.hackerrank.com/profile/suriya17dina" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="30" />
   </a>
   <a href="https://www.instagram.com/_suriya_a__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
   </a>
 </div>
 
-###
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=suriya17code&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suriya17code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
-
-
-<br clear="both">
-
-###
-
-
+### 📊 GitHub Stats
 <div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app?username=suriya17code&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-
+  <img src="https://streak-stats.demolab.com?user=suriya17code&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriya17code&layout=compact&theme=dracula" height="150" />
 </div>
 
-###
+---
 
-
-<div> <a href="https://github.com/suriya17code" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+### 🏆 Achievements
 <div align="center">
-<a href="https://github.com/suriya17code">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suriya17code&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suriya17code&theme=2077" height="180em" />
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suriya17code&theme=2077" height="180em" />
+  <img src="https://github-profile-trophy.vercel.app/?username=suriya17code&theme=dracula&row=1&column=4" height="140" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+---
 
+### 📈 Profile Summary
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suriya17code&theme=2077" height="180" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suriya17code&theme=2077" height="180" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suriya17code&theme=2077" height="180" />
+</div>
